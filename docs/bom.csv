@@ -1,0 +1,6 @@
+"Refs","Value","Footprint","Qty","DNP"
+"J2","moteur_Droite","Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical","1",""
+"J6","moteur_Gauche","Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical","1",""
+"J7","arduino","Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Horizontal","1",""
+"U1","VNH7070BASTR_Droite","VNH7070BASTR:SOIC127P600X175-16N","1",""
+"U2","VNH7070BASTR_Gauche","VNH7070BASTR:SOIC127P600X175-16N","1",""
