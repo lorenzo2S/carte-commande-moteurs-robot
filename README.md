@@ -52,6 +52,10 @@ photos/  photos de la carte réalisée et du robot
 
 Les fichiers s'ouvrent avec **KiCad 10**.
 
+## Voir aussi
+
+- [Multimètre numérique à Arduino Nano (SAÉ BUT 1)](https://github.com/lorenzo2S/multimetre-arduino-nano)
+
 ## Auteur
 
 **Lorenzo Dos Santos** – étudiant en BUT GEII, parcours ESE, IUT de Troyes
